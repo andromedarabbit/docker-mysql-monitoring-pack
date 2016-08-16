@@ -9,6 +9,7 @@
 
 * `bash4`
 * `mytop`
+* `percona-toolkit`
 
 ## Usage Example
 
@@ -35,3 +36,11 @@ Here's the exact error from DBI. It might help you debug:
 
 Can't connect to local MySQL server through socket '/run/mysqld/mysqld.sock' (2 "No such file or directory")
 ```
+
+## Recommended
+
+* [Logging Deadlock errors](https://www.percona.com/blog/2012/09/19/logging-deadlocks-errors/)
+
+## Thanks to
+
+* [diyan/percona-toolkit-docker](https://github.com/diyan)
