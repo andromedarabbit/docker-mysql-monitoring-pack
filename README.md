@@ -11,7 +11,7 @@
 * `mytop`
 * `percona-toolkit`
 
-## Usage Example
+## Usage example
 
 ```bash
 docker run --rm  andromedarabbit/mysql-monitoring-pack bash -c 'mytop'
@@ -35,6 +35,14 @@ config file. See the manual (perldoc mytop) for details.
 Here's the exact error from DBI. It might help you debug:
 
 Can't connect to local MySQL server through socket '/run/mysqld/mysqld.sock' (2 "No such file or directory")
+```
+
+## How to run utils
+
+### How to detect deadlocks
+
+```bash
+pt-deadlock-logger --host mydatabase.com --user root --ask-pass
 ```
 
 ## Recommended
