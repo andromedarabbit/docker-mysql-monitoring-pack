@@ -1,7 +1,7 @@
 [![Docker Stars](https://img.shields.io/docker/stars/andromedarabbit/mysql-monitoring-pack.svg?style=flat-square)](https://hub.docker.com/r/andromedarabbit/mysql-monitoring-pack/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/andromedarabbit/mysql-monitoring-pack.svg?style=flat-square)](https://hub.docker.com/r/andromedarabbit/mysql-monitoring-pack/)
-
-
+[![](https://images.microbadger.com/badges/image/andromedarabbit/mysql-monitoring-pack.svg)](https://microbadger.com/images/andromedarabbit/mysql-monitoring-pack
+"Get your own image badge on microbadger.com")
 
 # MySQL monitoring tools on Docker
 
